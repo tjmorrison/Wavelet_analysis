@@ -271,4 +271,4 @@ for i = 1:size(OSignal,1)
         FiltData(i,j) = filt_data(tmp+j);
     end
 end
-    onic data
+    
